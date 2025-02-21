@@ -9,4 +9,7 @@ Simple, I made it just for fun
 # Troubleshooting
 If you are having problems to compile the code, download lib files in the releases tab, and replace the directory in the Makefile to the downloaded lib directory.
 
+# How to use it
+With this extension you get 2 new functions, the `sleep()` and the `sleepM()`. both of these do the same thing, but `sleep()` is the value is in seconds, and `sleepM()` in milliseconds.
+
 That's all to this crappy Markdown.
